@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="brand">#2F5D8A</color>
+    <color name="vacant_bg">#E3F1E4</color>
+    <color name="vacant_text">#2E7D32</color>
+    <color name="booked_bg">#F8E1E1</color>
+    <color name="booked_text">#C62828</color>
+    <color name="warn_bg">#FFF0D6</color>
+    <color name="warn_text">#B26A00</color>
 </resources>
